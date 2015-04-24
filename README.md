@@ -6,7 +6,7 @@ Requires qfbsp from [The QuakeForge Project](www.quakeforge.net). May work with 
 
 ## Usage
 * Copy any .tga or .png files to itextures/.
-* Copy and .bsp files to maps/map.bsp.
+* Copy any .bsp files to maps/map.bsp.
 
 `$ ./qmtc.sh QFBSP-FILE-PATH`
 
